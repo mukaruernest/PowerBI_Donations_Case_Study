@@ -4,10 +4,11 @@ IRC Receives donations from Different individuals and companies. The data below 
 
 Table of Content. 
 
-- [Dataset]()
-- [Relationships]()
-- [Questions]()
-- [Dashboard view]()
+- [Dataset](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dataset)
+- [Relationships](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#relationships)
+- [Questions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#questions)
+- [Solutions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#solution)
+- [Dashboard view](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dashboard-view)
 
 ## Dataset
 Click the cursor to view the tables. 
