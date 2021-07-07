@@ -200,15 +200,18 @@ Click the cursor to view the tables.
 Q1)	How much money was raised month over month for the last three years, by department?
 
 Visual: `matrix`
-Columns: Campaign.department 
-Rows: Donation.Amount, donation.gift date(Month) 
+
+Columns: `Campaign.department` 
+
+Rows: `Donation.Amount`, `donation.gift date`(Month) 
 
 ![image](https://user-images.githubusercontent.com/10958742/124780142-0a1ac580-df4b-11eb-8327-719cba4f40fd.png)
 
 Q2) What are the most successful campaigns year over year by Channel and Sub-Channel?
 
 Visual: `Slicer`
-Filters: donation.gift date(Year)
+
+Filters: `donation.gift date`(Year)
 
 Select a filter to compare years
 
