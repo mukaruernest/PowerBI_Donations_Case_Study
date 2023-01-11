@@ -11,7 +11,7 @@ Table of Content.
 - [Dashboard view](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dashboard-view)
 
 ## Dataset
-Click the cursor to view the tables. 
+Click the Table Name to view the tables. 
 
 <details>
   <summary>Table Name: Donor</summary>
