@@ -1,6 +1,6 @@
 # Donations-Case-Study
 
-IRC Receives donations from Different individuals and companies. The data below is provided to answer the questions that follow. 
+An Organisation receives donations from Different individuals and companies. The data below is provided to answer the questions that follow. 
 
 Table of Content. 
 
