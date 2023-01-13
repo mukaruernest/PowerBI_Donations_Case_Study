@@ -10,6 +10,12 @@ Table of Content.
 - [Solutions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#solution)
 - [Dashboard view](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dashboard-view)
 
+## Dashboard View
+
+[Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
+
+![PowerBI](https://user-images.githubusercontent.com/10958742/124785784-d42c1000-df4f-11eb-947d-caeb8f069b9e.jpg)
+
 ## Dataset
 Click the Table Name to view the tables. 
 
@@ -249,11 +255,7 @@ CALCULATE(SUM(Donation[Amount]), Donor[Country] <> "United States")
 
 ![image](https://user-images.githubusercontent.com/10958742/124783788-fde43780-df4d-11eb-9709-1bcc12a3ae64.png)
 
-## Dashboard View
 
-[Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
-
-![PowerBI](https://user-images.githubusercontent.com/10958742/124785784-d42c1000-df4f-11eb-947d-caeb8f069b9e.jpg)
 
 
 
