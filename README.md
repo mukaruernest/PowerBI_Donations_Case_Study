@@ -12,9 +12,9 @@ Table of Content.
 
 ## Dashboard View
 
-[Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
-
 ![PowerBI](https://user-images.githubusercontent.com/10958742/124785784-d42c1000-df4f-11eb-947d-caeb8f069b9e.jpg)
+
+[Click to Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
 
 ## Dataset
 Click the Table Name to view the tables. 
