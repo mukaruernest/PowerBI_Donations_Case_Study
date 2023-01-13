@@ -14,7 +14,7 @@ Table of Content.
 
 ![PowerBI](https://user-images.githubusercontent.com/10958742/124785784-d42c1000-df4f-11eb-947d-caeb8f069b9e.jpg)
 
-[Click to Download pbix file](https://github.com/mukaruernest/Donations-Case-Study/blob/main/IRC%20Donation.pbix?raw=true)
+[Click to Download pbix file](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/raw/main/DonationsCaseStudy.pbix)
 
 ## Dataset
 Click the Table Name to view the tables. 
