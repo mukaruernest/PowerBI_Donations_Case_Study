@@ -12,7 +12,8 @@ Table of Content.
 
 ## Dashboard View
 
-![PowerBI](https://user-images.githubusercontent.com/10958742/124785784-d42c1000-df4f-11eb-947d-caeb8f069b9e.jpg)
+![image](https://user-images.githubusercontent.com/10958742/212395385-144c919d-bbe9-4fac-aafb-4b42131ffc1a.png)
+
 
 [Click to Download pbix file](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/raw/main/DonationsCaseStudy.pbix)
 
