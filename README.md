@@ -4,11 +4,11 @@ An Organisation receives donations from Different individuals and companies. The
 
 Table of Content. 
 
-- [Dataset](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dataset)
-- [Relationships](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#relationships)
-- [Questions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#questions)
-- [Solutions](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#solution)
-- [Dashboard view](https://github.com/mukaruernest/Donations-Case-Study/blob/main/README.md#dashboard-view)
+- [Dashboard view](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/blob/main/README.md#dashboard-view)
+- [Dataset](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/blob/main/README.md#dataset)
+- [Relationships](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/blob/main/README.md#relationships)
+- [Questions](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/blob/main/README.md#questions)
+- [Solutions](https://github.com/mukaruernest/PowerBI_Donations_Case_Study/blob/main/README.md#solution)
 
 ## Dashboard View
 
